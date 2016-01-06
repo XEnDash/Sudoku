@@ -1,0 +1,9 @@
+This is a little sudoku solver/generator in C made around the end of 2015
+
+You need visual studio installed to compile with build.bat (but it should be easy to get to build in other compilers),
+The only thing that you probably need is to increase the stack memory. Otherwise you will get buffer overflows.
+
+I guess this is on the public domain, you can do whatever you want with this. I did not take anything from anyone or anywhere in this release. 
+Please don't sue me.
+
+- EnDash -
